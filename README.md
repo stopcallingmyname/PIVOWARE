@@ -11,6 +11,7 @@
 Process Hacker
 
 ### README
+- Set the game to Windowed mode.
 
 - Turn on Remove Flag in the menu, then you can join on any server, no need to turn it off on exit.
 
