@@ -1,11 +1,11 @@
 ### **Blockade Classic useless hack**
 
 ### Features:
-> Fast Reload
-> Weapon Field of View
-> Remove Flag
-> Jump Hack
-> Meme Crosshair
+> Fast Reload,
+> Weapon Field of View,
+> Remove Flag,
+> Jump Hack,
+> Meme Crosshair.
 
 ### Injector:
 Process Hacker
