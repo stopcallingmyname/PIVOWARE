@@ -5,7 +5,8 @@
 > Weapon Field of View,
 > Remove Flag,
 > Jump Hack,
-> Meme Crosshair.
+> Meme Crosshair,
+> Faster Movement.
 
 ### Injector:
 Process Hacker
