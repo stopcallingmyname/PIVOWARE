@@ -1,0 +1,4 @@
+
+struct MiscSettings_t {
+
+};

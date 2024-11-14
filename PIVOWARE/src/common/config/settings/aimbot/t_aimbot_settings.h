@@ -1,0 +1,6 @@
+
+struct AimbotSettings_t {
+
+};
+
+
